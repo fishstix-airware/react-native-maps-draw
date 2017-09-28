@@ -1,4 +1,5 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types';
 import { View, Platform } from 'react-native';
 import MapView from 'react-native-maps';
 import geoUtils from './utils/geoUtils';
